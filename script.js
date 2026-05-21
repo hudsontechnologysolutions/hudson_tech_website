@@ -236,7 +236,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'services.card2Desc': 'Complex, custom web applications with secure backends, databases, and user accounts. Built to automate workflows, unlock new revenue, and scale alongside your organization as you grow.',
       'services.benefit4': '<strong>End-to-end development.</strong> Frontend, backend, and database — all engineered by one dedicated partner who owns the full picture from day one.',
       'services.benefit5': '<strong>Cut operating costs.</strong> Automate data entry, reporting, scheduling, and invoicing so your team can focus on mission-critical work instead of busywork.',
-      'services.benefit6': '<strong>Unlock new revenue.</strong> Subscription platforms, online booking, secure checkout, member portals, and e-commerce — purpose-built to open revenue streams your current setup can\'t support.',
+      'services.benefit6': '<strong>Unlock new revenue.</strong> Subscription platforms, online booking, secure checkout, and member portals — purpose-built to open revenue streams your current setup can\'t support.',
 
       'services.card3Title': 'CMS-Based Web Development',
       'services.card3Desc': 'Beautiful, easy-to-update websites built on platforms your team can manage on their own. WordPress and Squarespace builds with the polish of a custom site and the flexibility to edit content without touching code.',
@@ -308,7 +308,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'services.card2Desc': 'Aplicaciones web complejas y personalizadas con backends seguros, bases de datos y cuentas de usuario. Construidas para automatizar flujos de trabajo, generar nuevos ingresos y escalar junto a tu organización a medida que creces.',
       'services.benefit4': '<strong>Desarrollo de principio a fin.</strong> Frontend, backend y base de datos — todo desarrollado por un solo socio dedicado que entiende el panorama completo desde el día uno.',
       'services.benefit5': '<strong>Reduce costos operativos.</strong> Automatiza entrada de datos, informes, programación y facturación para que tu equipo se enfoque en lo que realmente importa, no en tareas manuales.',
-      'services.benefit6': '<strong>Desbloquea nuevos ingresos.</strong> Plataformas de suscripción, reservas en línea, pagos seguros, portales de miembros y comercio electrónico — diseñados para abrir canales de ingresos que tu configuración actual no puede sostener.',
+      'services.benefit6': '<strong>Desbloquea nuevos ingresos.</strong> Plataformas de suscripción, reservas en línea, pagos seguros y portales de miembros — diseñados para abrir canales de ingresos que tu configuración actual no puede sostener.',
 
       'services.card3Title': 'Desarrollo Web con CMS',
       'services.card3Desc': 'Sitios web bonitos y fáciles de actualizar, construidos sobre plataformas que tu equipo puede gestionar por su cuenta. WordPress y Squarespace con la elegancia de un sitio personalizado y la flexibilidad de editar contenido sin tocar código.',
