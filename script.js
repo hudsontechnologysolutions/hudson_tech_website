@@ -226,13 +226,13 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'services.valuePara3': 'Custom software closes that gap. One well-built application can automate your most time-consuming workflows, give your team real-time visibility into operations, and create the kind of seamless digital experience your clients and community now expect. It\'s the same operational advantage Fortune 500 companies have relied on for decades — built to fit your budget, your workflow, and your goals.',
       'services.valuePara4': 'The question isn\'t whether your organization needs technology — it\'s how long you can afford to wait. We help you stop falling behind and start building the tools that put you ahead.',
 
-      'services.card1Title': 'Web Designer / Developer',
+      'services.card1Title': 'Web Design / Development',
       'services.card1Desc': 'Polished, fast, and conversion-focused websites for organizations that need a strong online presence without the complexity of a full web app. Perfect for landing pages, portfolios, small business sites, and blogs.',
       'services.benefit1': '<strong>Beautiful first impressions.</strong> Custom-designed pages built to build trust the moment someone lands — modern, branded, and mobile-friendly.',
       'services.benefit2': '<strong>Blazing-fast performance.</strong> Lightweight, hand-coded sites that load instantly — no bloat, no overhead, no plugin fatigue.',
       'services.benefit3': '<strong>Built to convert.</strong> Clear calls to action, contact forms, and landing-page flows that turn visitors into qualified leads.',
 
-      'services.card2Title': 'Full Stack Web Developer',
+      'services.card2Title': 'Full Stack Web Development',
       'services.card2Desc': 'Complex, custom web applications with secure backends, databases, and user accounts. Built to automate workflows, unlock new revenue, and scale alongside your organization as you grow.',
       'services.benefit4': '<strong>End-to-end development.</strong> Frontend, backend, and database — all engineered by one dedicated partner who owns the full picture from day one.',
       'services.benefit5': '<strong>Cut operating costs.</strong> Automate data entry, reporting, scheduling, and invoicing so your team can focus on mission-critical work instead of busywork.',
@@ -241,7 +241,6 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'services.card3Title': 'CMS-Based Web Development',
       'services.card3Desc': 'Beautiful, easy-to-update websites built on platforms your team can manage on their own. WordPress and Squarespace builds with the polish of a custom site and the flexibility to edit content without touching code.',
       'services.benefit7': '<strong>Update without a developer.</strong> Publish news, events, and pages in minutes through an intuitive editor — no code, no waiting on outside help.',
-      'services.benefit8': '<strong>Built-in essentials.</strong> SEO, analytics, contact forms, and e-commerce options come standard, so you launch ready to grow from day one.',
       'services.benefit9': '<strong>Lower long-term costs.</strong> Your team handles routine updates in-house, keeping ongoing maintenance fees down without sacrificing professional polish.',
 
       'work.tag': 'Selected Work',
@@ -299,13 +298,13 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'services.valuePara3': 'El software personalizado cierra esa brecha. Una sola aplicación bien construida puede automatizar tus flujos de trabajo más costosos, darle a tu equipo visibilidad en tiempo real y crear la experiencia digital fluida que tus clientes y comunidad ahora esperan. Es la misma ventaja operativa que las empresas Fortune 500 han usado por décadas — diseñada para tu presupuesto, tu flujo de trabajo y tus objetivos.',
       'services.valuePara4': 'La pregunta no es si tu organización necesita tecnología — es cuánto tiempo puedes darte el lujo de esperar. Te ayudamos a dejar de quedarte atrás y empezar a construir las herramientas que te pongan adelante.',
 
-      'services.card1Title': 'Diseñador / Desarrollador Web',
+      'services.card1Title': 'Diseño / Desarrollo Web',
       'services.card1Desc': 'Sitios web pulidos, rápidos y enfocados en conversión para organizaciones que necesitan una presencia digital sólida sin la complejidad de una aplicación completa. Ideales para páginas de aterrizaje, portafolios, sitios de pequeños negocios y blogs.',
       'services.benefit1': '<strong>Primeras impresiones impactantes.</strong> Páginas diseñadas a medida que generan confianza desde el primer instante — modernas, con tu marca y adaptadas a móviles.',
       'services.benefit2': '<strong>Rendimiento ultrarrápido.</strong> Sitios ligeros y codificados a mano que cargan al instante — sin sobrecarga, sin plugins innecesarios.',
       'services.benefit3': '<strong>Diseñados para convertir.</strong> Llamados a la acción claros, formularios de contacto y flujos de páginas que convierten visitantes en clientes potenciales calificados.',
 
-      'services.card2Title': 'Desarrollador Web Full Stack',
+      'services.card2Title': 'Desarrollo Web Full Stack',
       'services.card2Desc': 'Aplicaciones web complejas y personalizadas con backends seguros, bases de datos y cuentas de usuario. Construidas para automatizar flujos de trabajo, generar nuevos ingresos y escalar junto a tu organización a medida que creces.',
       'services.benefit4': '<strong>Desarrollo de principio a fin.</strong> Frontend, backend y base de datos — todo desarrollado por un solo socio dedicado que entiende el panorama completo desde el día uno.',
       'services.benefit5': '<strong>Reduce costos operativos.</strong> Automatiza entrada de datos, informes, programación y facturación para que tu equipo se enfoque en lo que realmente importa, no en tareas manuales.',
@@ -314,7 +313,6 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'services.card3Title': 'Desarrollo Web con CMS',
       'services.card3Desc': 'Sitios web bonitos y fáciles de actualizar, construidos sobre plataformas que tu equipo puede gestionar por su cuenta. WordPress y Squarespace con la elegancia de un sitio personalizado y la flexibilidad de editar contenido sin tocar código.',
       'services.benefit7': '<strong>Actualiza sin un desarrollador.</strong> Publica noticias, eventos y páginas en minutos a través de un editor intuitivo — sin código, sin esperar ayuda externa.',
-      'services.benefit8': '<strong>Lo esencial incluido.</strong> SEO, analítica, formularios de contacto y opciones de comercio electrónico vienen incluidos, listos para crecer desde el primer día.',
       'services.benefit9': '<strong>Menores costos a largo plazo.</strong> Tu equipo gestiona las actualizaciones rutinarias internamente, reduciendo los gastos de mantenimiento sin sacrificar la calidad profesional.',
 
       'work.tag': 'Proyectos Destacados',
