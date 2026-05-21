@@ -9,7 +9,8 @@
       "Bash(powershell -Command \"[System.Reflection.Assembly]::LoadWithPartialName\\('System.Drawing'\\) | Out-Null; Write-Host 'System.Drawing available'\")",
       "Bash(npm install:*)",
       "Bash(node convert-logo.js)",
-      "Bash(cp \"C:/Users/robhe/Downloads/IMG_6480.jpg\" \"C:/Users/robhe/OneDrive/Desktop/Portfolio/hudson-tech/assets/roberto.jpg\" && ls -la \"C:/Users/robhe/OneDrive/Desktop/Portfolio/hudson-tech/assets/roberto.jpg\")"
+      "Bash(cp \"C:/Users/robhe/Downloads/IMG_6480.jpg\" \"C:/Users/robhe/OneDrive/Desktop/Portfolio/hudson-tech/assets/roberto.jpg\" && ls -la \"C:/Users/robhe/OneDrive/Desktop/Portfolio/hudson-tech/assets/roberto.jpg\")",
+      "Bash(cp \"C:/Users/robhe/OneDrive/Pictures/Screenshots/Screenshot 2026-05-21 021446.png\" \"C:/Users/robhe/OneDrive/Desktop/Portfolio/hudson-tech/assets/whererthebands.png\" && ls -la \"C:/Users/robhe/OneDrive/Desktop/Portfolio/hudson-tech/assets/whererthebands.png\")"
     ]
   }
 }
