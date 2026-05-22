@@ -379,6 +379,26 @@ img { max-width: 100%; display: block; }
   color: var(--accent);
 }
 
+.stat-prefix {
+  margin-right: 2px;
+}
+
+.stat-link {
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+.stat-link:hover {
+  opacity: 0.85;
+}
+
+.stat-link:hover .stat-label {
+  color: var(--text-2);
+  text-decoration: underline;
+  text-decoration-color: rgba(108, 99, 255, 0.5);
+  text-underline-offset: 4px;
+}
+
 .stat-label {
   display: block;
   font-size: 0.8125rem;

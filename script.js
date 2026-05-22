@@ -217,6 +217,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'hero.ctaPrimary': 'View Our Work',
       'hero.ctaSecondary': 'Start a Project',
       'hero.statClients': 'Clients Served',
+      'hero.statSaved': 'Saved',
 
       'services.tag': 'What We Do',
       'services.title': 'Engineering solutions<br />at the intersection of<br /><span class="gradient-text">code &amp; community.</span>',
@@ -244,7 +245,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'services.benefit9': '<strong>Lower long-term costs.</strong> Your team handles routine updates in-house, keeping ongoing maintenance fees down without sacrificing professional polish.',
 
       'work.tag': 'Selected Work',
-      'work.title': 'Products that serve<br /><span class="gradient-text">real communities.</span>',
+      'work.title': 'Products that solve<br /><span class="gradient-text">real problems.</span>',
       'work.museCat': 'Non-Profit Platform',
       'work.museDesc': 'A subscription-based platform built for <a href="https://www.jerseycitypoetryfestival.org/">Jersey City\'s Poet Laureate, Melida Rodas.</a> Local artists discover cultural events on an interactive map with calendar integration, while a paid subscription tier lets organizers post their own events — generating a recurring revenue stream for the non-profit.',
       'work.housesCat': 'Civic Automation',
@@ -291,6 +292,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'hero.ctaPrimary': 'Ver Nuestros Proyectos',
       'hero.ctaSecondary': 'Iniciar un Proyecto',
       'hero.statClients': 'Clientes Atendidos',
+      'hero.statSaved': 'Ahorrados',
 
       'services.tag': 'Lo Que Hacemos',
       'services.title': 'Soluciones de ingeniería<br />en la intersección del<br /><span class="gradient-text">código y la comunidad.</span>',
@@ -318,7 +320,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'services.benefit9': '<strong>Menores costos a largo plazo.</strong> Tu equipo gestiona las actualizaciones rutinarias internamente, reduciendo los gastos de mantenimiento sin sacrificar la calidad profesional.',
 
       'work.tag': 'Proyectos Destacados',
-      'work.title': 'Productos que sirven a<br /><span class="gradient-text">comunidades reales.</span>',
+      'work.title': 'Productos que resuelven<br /><span class="gradient-text">problemas reales.</span>',
       'work.museCat': 'Plataforma Sin Fines de Lucro',
       'work.museDesc': 'Una plataforma por suscripción creada para <a href="https://www.jerseycitypoetryfestival.org/">la Poeta Laureada de Jersey City, Melida Rodas.</a> Los artistas locales descubren eventos culturales en un mapa interactivo con calendario integrado, mientras que un nivel de suscripción de pago permite a los organizadores publicar sus propios eventos — generando una fuente recurrente de ingresos para la organización sin fines de lucro.',
       'work.housesCat': 'Automatización Cívica',
