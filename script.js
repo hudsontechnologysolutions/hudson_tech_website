@@ -211,9 +211,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'nav.cta': 'Get in Touch',
 
       'hero.badge': 'Based in Jersey City, NJ',
-      'hero.title1': 'Software',
-      'hero.title2': 'that <em class="gradient-text">moves</em> you',
-      'hero.title3': '<em class="gradient-text">forward</em>',
+      'hero.title1': 'Moving <em class="gradient-text">you</em> forward',
       'hero.ctaPrimary': 'View Our Work',
       'hero.ctaSecondary': 'Start a Project',
       'hero.statClients': 'Clients Served',
@@ -286,9 +284,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'nav.cta': 'Contáctame',
 
       'hero.badge': 'Ubicado en Jersey City, NJ',
-      'hero.title1': 'Software',
-      'hero.title2': 'que <em class="gradient-text">te impulsa</em>',
-      'hero.title3': '<em class="gradient-text">hacia adelante</em>',
+      'hero.title1': 'Impulsándo<em class="gradient-text">te</em> hacia adelante',
       'hero.ctaPrimary': 'Ver Nuestros Proyectos',
       'hero.ctaSecondary': 'Iniciar un Proyecto',
       'hero.statClients': 'Clientes Atendidos',
