@@ -240,7 +240,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'services.benefit6': '<strong>Unlock new revenue.</strong> Subscription platforms, online booking, secure checkout, and member portals — purpose-built to open revenue streams your current setup can\'t support.',
 
       'services.card3Title': 'CMS-Based Web Development',
-      'services.card3Desc': 'Beautiful, easy-to-update websites built on platforms your team can manage on their own. WordPress and Squarespace builds with the polish of a custom site and the flexibility to edit content without touching code.',
+      'services.card3Desc': 'Beautiful, easy-to-update websites built on platforms your team can manage on their own. WordPress builds with the polish of a custom site and the flexibility to edit content without touching code.',
       'services.benefit7': '<strong>Update without a developer.</strong> Publish news, events, and pages in minutes through an intuitive editor — no code, no waiting on outside help.',
       'services.benefit9': '<strong>Lower long-term costs.</strong> Your team handles routine updates in-house, keeping ongoing maintenance fees down without sacrificing professional polish.',
 
@@ -315,7 +315,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'services.benefit6': '<strong>Desbloquea nuevos ingresos.</strong> Plataformas de suscripción, reservas en línea, pagos seguros y portales de miembros — diseñados para abrir canales de ingresos que tu configuración actual no puede sostener.',
 
       'services.card3Title': 'Desarrollo Web con CMS',
-      'services.card3Desc': 'Sitios web bonitos y fáciles de actualizar, construidos sobre plataformas que tu equipo puede gestionar por su cuenta. WordPress y Squarespace con la elegancia de un sitio personalizado y la flexibilidad de editar contenido sin tocar código.',
+      'services.card3Desc': 'Sitios web bonitos y fáciles de actualizar, construidos sobre plataformas que tu equipo puede gestionar por su cuenta. WordPress con la elegancia de un sitio personalizado y la flexibilidad de editar contenido sin tocar código.',
       'services.benefit7': '<strong>Actualiza sin un desarrollador.</strong> Publica noticias, eventos y páginas en minutos a través de un editor intuitivo — sin código, sin esperar ayuda externa.',
       'services.benefit9': '<strong>Menores costos a largo plazo.</strong> Tu equipo gestiona las actualizaciones rutinarias internamente, reduciendo los gastos de mantenimiento sin sacrificar la calidad profesional.',
 
