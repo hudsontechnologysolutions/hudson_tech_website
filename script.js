@@ -208,7 +208,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'nav.services': 'Services',
       'nav.work': 'Work',
       'nav.about': 'About',
-      'nav.cta': 'Get in Touch',
+      'nav.cta': 'Book a Call',
 
       'hero.badge': 'Based in Jersey City, NJ',
       'hero.title1': 'Moving <em class="gradient-text">you</em> forward',
@@ -277,7 +277,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'nav.services': 'Servicios',
       'nav.work': 'Proyectos',
       'nav.about': 'Acerca',
-      'nav.cta': 'Contáctame',
+      'nav.cta': 'Reservar una Llamada',
 
       'hero.badge': 'Ubicado en Jersey City, NJ',
       'hero.title1': 'Impulsándo<em class="gradient-text">te</em> hacia adelante',
