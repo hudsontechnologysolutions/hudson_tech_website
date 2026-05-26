@@ -269,7 +269,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
 
       'contact.tag': 'Start a Project',
       'contact.title': 'Let\'s build something<br /><span class="gradient-text">that matters.</span>',
-      'contact.cta': 'Get in Touch',
+      'contact.cta': 'Book a Call',
 
       'footer.copy': '© 2026 Hudson Technology Solutions LLC. Jersey City, NJ.'
     },
@@ -338,7 +338,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
 
       'contact.tag': 'Iniciar un Proyecto',
       'contact.title': 'Construyamos algo<br /><span class="gradient-text">que importe.</span>',
-      'contact.cta': 'Contáctame',
+      'contact.cta': 'Reservar una Llamada',
 
       'footer.copy': '© 2026 Hudson Technology Solutions LLC. Jersey City, NJ.'
     }
