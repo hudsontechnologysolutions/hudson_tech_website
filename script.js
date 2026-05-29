@@ -232,7 +232,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'services.benefit3': '<strong>Built to convert.</strong> Clear calls to action, contact forms, and landing-page flows that turn visitors into qualified leads.',
 
       'services.card2Title': 'Full-Stack Web Development',
-      'services.card2Desc': 'Complex, custom web applications with secure backends, databases, and user accounts. Built to automate workflows, unlock new revenue, and scale alongside your organization as you grow.',
+      'services.card2Desc': 'Complex, custom web applications with secure backends, databases, and user accounts. Built to unlock new revenue and scale alongside your organization as you grow.',
       'services.benefit4': '<strong>End-to-end development.</strong> Frontend, backend, and database — all engineered by one dedicated partner who owns the full picture from day one.',
       'services.benefit5': '<strong>Cut operating costs.</strong> Automate data entry, reporting, scheduling, and invoicing so your team can focus on mission-critical work instead of busywork.',
       'services.benefit6': '<strong>Unlock new revenue.</strong> Subscription platforms, online booking, secure checkout, and member portals — purpose-built to open revenue streams your current setup can\'t support.',
@@ -243,9 +243,9 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'work.museCat': 'Non-Profit Platform',
       'work.museDesc': 'Jersey City\'s Poet Laureate, <a href="https://www.jerseycitypoetryfestival.org/">Melida Rodas</a>, needed to centralize the city\'s scattered cultural calendar — and fund her non-profit at the same time. The solution: an interactive map and event platform where local artists discover what\'s happening, while paid subscriptions let organizers post their own events — turning a community resource into a recurring revenue stream for the non-profit.',
       'work.housesCat': 'Civic Automation',
-      'work.housesDesc': '<a href="https://www.quetzalconsultingnj.com/affordablehousingstock" target="_blank" rel="noopener">Quetzal Consulting</a> was losing hours each week to manual Census data lookups for every Affirmative Fair Housing Marketing Plan it filed with Jersey City\'s Department of Affordable Housing. The solution: an automation tool that turns hours of per-property busywork into minutes — saving the owner several hours every month across an entire real estate portfolio, and freeing them to take on more clients.',
-      'work.bandsCat': 'AI Music Discovery',
-      'work.bandsDesc': 'Local concert listings are scattered across a dozen platforms, leaving fans guessing where to spend their night. The solution: a discovery app that pulls those listings into one place, then layers Anthropic\'s Claude AI on top — users pick the genres they love and the app surfaces the shows most worth showing up for, turning chaotic event feeds into a curated tonight\'s lineup.',
+      'work.housesDesc': '<a href="https://www.quetzalconsultingnj.com/affordablehousingstock" target="_blank" rel="noopener">Quetzal Consulting</a> was losing hours each week to manual Census data lookups for every Affirmative Fair Housing Marketing Plan it filed with Jersey City\'s Department of Affordable Housing. The solution: an automation tool that turns hours of per-property busywork into minutes — saving the owner roughly 15 hours every week across an entire real estate portfolio, and freeing them to take on more clients.',
+      'work.cyberCat': 'Full-Stack Engagement',
+      'work.cyberDesc': 'Serving as <strong>full-stack developer</strong> for <a href="https://www.cyber-institute.org/" target="_blank" rel="noopener">The Cyber Institute</a>, an international non-profit advancing cybersecurity policy, AI governance, and emerging-tech research — working directly with nation-states such as the <strong>United Arab Emirates</strong> and global bodies including the <strong>United Nations</strong>. The work supports a global mission: bridging the gap between fast-moving technology and the policymakers, industry leaders, and academics working to keep the digital future secure and equitable.',
       'work.viewProject': 'View Project',
 
       'about.tag': 'About',
@@ -258,6 +258,8 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'about.bio3': 'Every project ships with modern architecture, measurable outcomes, and a relentless focus on the bottom line. We\'re also <strong>bilingual (English &amp; Spanish)</strong>, so the diverse communities we serve can collaborate in their own language.',
 
       'timeline.role1': 'Founded Hudson Technology Solutions LLC',
+      'timeline.roleCyber': 'Full-Stack Developer — <a href="https://www.cyber-institute.org/" target="_blank" rel="noopener">Cyber Institute</a>',
+      'timeline.descCyber': 'Building full-stack web platforms for a cybersecurity research and education non-profit — turning their mission to advance the field into the digital tools that make it scalable.',
       'timeline.role2': 'Data Scientist — PSEG',
       'timeline.desc2': 'Translated raw data into strategic recommendations at one of the largest publicly-traded energy & utility companies in the U.S. — work that informed decisions affecting millions of customers across New Jersey.',
       'timeline.role3': 'Data Engineer — PowerOptions',
@@ -301,7 +303,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'services.benefit3': '<strong>Diseñados para convertir.</strong> Llamados a la acción claros, formularios de contacto y flujos de páginas que convierten visitantes en clientes potenciales calificados.',
 
       'services.card2Title': 'Desarrollo Web Full-Stack',
-      'services.card2Desc': 'Aplicaciones web complejas y personalizadas con backends seguros, bases de datos y cuentas de usuario. Construidas para automatizar flujos de trabajo, generar nuevos ingresos y escalar junto a tu organización a medida que creces.',
+      'services.card2Desc': 'Aplicaciones web complejas y personalizadas con backends seguros, bases de datos y cuentas de usuario. Construidas para generar nuevos ingresos y escalar junto a tu organización a medida que creces.',
       'services.benefit4': '<strong>Desarrollo de principio a fin.</strong> Frontend, backend y base de datos — todo desarrollado por un solo socio dedicado que entiende el panorama completo desde el día uno.',
       'services.benefit5': '<strong>Reduce costos operativos.</strong> Automatiza entrada de datos, informes, programación y facturación para que tu equipo se enfoque en lo que realmente importa, no en tareas manuales.',
       'services.benefit6': '<strong>Desbloquea nuevos ingresos.</strong> Plataformas de suscripción, reservas en línea, pagos seguros y portales de miembros — diseñados para abrir canales de ingresos que tu configuración actual no puede sostener.',
@@ -312,9 +314,9 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'work.museCat': 'Plataforma Sin Fines de Lucro',
       'work.museDesc': '<a href="https://www.jerseycitypoetryfestival.org/">Melida Rodas, Poeta Laureada de Jersey City</a>, necesitaba centralizar el calendario cultural disperso de la ciudad — y financiar su organización sin fines de lucro al mismo tiempo. La solución: una plataforma de eventos con mapa interactivo donde los artistas locales descubren lo que está pasando, mientras que las suscripciones de pago permiten a los organizadores publicar sus propios eventos — convirtiendo un recurso comunitario en una fuente recurrente de ingresos para la organización.',
       'work.housesCat': 'Automatización Cívica',
-      'work.housesDesc': '<a href="https://www.quetzalconsultingnj.com/affordablehousingstock" target="_blank" rel="noopener">Quetzal Consulting</a> perdía horas cada semana en búsquedas manuales de datos del Censo para cada Plan de Comercialización de Vivienda Justa Afirmativa que presentaba al Departamento de Vivienda Asequible de Jersey City. La solución: una herramienta de automatización que convierte horas de trabajo por propiedad en minutos — ahorrando al dueño varias horas cada mes en toda una cartera inmobiliaria, y liberándolo para tomar más clientes.',
-      'work.bandsCat': 'Descubrimiento Musical con IA',
-      'work.bandsDesc': 'Las listas de conciertos locales están dispersas en una docena de plataformas, dejando a los fans adivinando dónde pasar su noche. La solución: una app de descubrimiento que reúne esas listas en un solo lugar y luego añade Claude de Anthropic encima — los usuarios eligen los géneros que les gustan y la app destaca los shows más vale la pena ver, convirtiendo el caos de los eventos locales en un cartel curado para esta noche.',
+      'work.housesDesc': '<a href="https://www.quetzalconsultingnj.com/affordablehousingstock" target="_blank" rel="noopener">Quetzal Consulting</a> perdía horas cada semana en búsquedas manuales de datos del Censo para cada Plan de Comercialización de Vivienda Justa Afirmativa que presentaba al Departamento de Vivienda Asequible de Jersey City. La solución: una herramienta de automatización que convierte horas de trabajo por propiedad en minutos — ahorrando al dueño aproximadamente 15 horas cada semana en toda una cartera inmobiliaria, y liberándolo para tomar más clientes.',
+      'work.cyberCat': 'Trabajo Full-Stack',
+      'work.cyberDesc': 'Trabajando como <strong>desarrollador full-stack</strong> para <a href="https://www.cyber-institute.org/" target="_blank" rel="noopener">The Cyber Institute</a>, una organización internacional sin fines de lucro que impulsa políticas de ciberseguridad, gobernanza de IA e investigación en tecnologías emergentes — colaborando directamente con naciones como los <strong>Emiratos Árabes Unidos</strong> y organismos globales como las <strong>Naciones Unidas</strong>. El trabajo apoya una misión global: cerrando la brecha entre la tecnología en rápida evolución y los responsables de políticas, líderes de la industria y académicos que trabajan para mantener el futuro digital seguro y equitativo.',
       'work.viewProject': 'Ver Proyecto',
 
       'about.tag': 'Acerca',
@@ -327,6 +329,8 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'about.bio3': 'Cada proyecto se entrega con arquitectura moderna, resultados medibles y un enfoque incansable en los resultados. También somos <strong>bilingües (inglés y español)</strong>, para que las diversas comunidades a las que servimos puedan colaborar en su propio idioma.',
 
       'timeline.role1': 'Fundé Hudson Technology Solutions LLC',
+      'timeline.roleCyber': 'Desarrollador Full-Stack — <a href="https://www.cyber-institute.org/" target="_blank" rel="noopener">Cyber Institute</a>',
+      'timeline.descCyber': 'Construyendo plataformas web full-stack para una organización sin fines de lucro de investigación y educación en ciberseguridad — convirtiendo su misión de avanzar el campo en las herramientas digitales que la hacen escalable.',
       'timeline.role2': 'Científico de Datos — PSEG',
       'timeline.desc2': 'Convirtió datos brutos en recomendaciones estratégicas en una de las mayores empresas de energía y servicios públicos de EE.UU. — un trabajo que informó decisiones que afectan a millones de clientes en Nueva Jersey.',
       'timeline.role3': 'Ingeniero de Datos — PowerOptions',
