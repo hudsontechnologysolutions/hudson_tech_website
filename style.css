@@ -730,13 +730,22 @@ img { max-width: 100%; display: block; }
   padding: 0;
   min-height: 0;
   background: #0a0a0b;
+  overflow: hidden;
 }
 
-.mockup-screen-img img {
+.mockup-screen-img img,
+.mockup-screen-img video {
   width: 100%;
   height: auto;
   display: block;
   object-fit: cover;
+}
+
+/* Crop letterbox bars baked into screen recordings by zooming past them.
+   Tune per video if the bar thickness differs. */
+.mockup-screen-img video {
+  transform: scale(1.12);
+  transform-origin: center center;
 }
 
 /* Mockup 1 - Map */

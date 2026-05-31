@@ -10,7 +10,11 @@
       "Bash(npm install:*)",
       "Bash(node convert-logo.js)",
       "Bash(cp \"C:/Users/robhe/Downloads/IMG_6480.jpg\" \"C:/Users/robhe/OneDrive/Desktop/Portfolio/hudson-tech/assets/roberto.jpg\" && ls -la \"C:/Users/robhe/OneDrive/Desktop/Portfolio/hudson-tech/assets/roberto.jpg\")",
-      "Bash(cp \"C:/Users/robhe/OneDrive/Pictures/Screenshots/Screenshot 2026-05-21 021446.png\" \"C:/Users/robhe/OneDrive/Desktop/Portfolio/hudson-tech/assets/whererthebands.png\" && ls -la \"C:/Users/robhe/OneDrive/Desktop/Portfolio/hudson-tech/assets/whererthebands.png\")"
+      "Bash(cp \"C:/Users/robhe/OneDrive/Pictures/Screenshots/Screenshot 2026-05-21 021446.png\" \"C:/Users/robhe/OneDrive/Desktop/Portfolio/hudson-tech/assets/whererthebands.png\" && ls -la \"C:/Users/robhe/OneDrive/Desktop/Portfolio/hudson-tech/assets/whererthebands.png\")",
+      "Bash(ls \"C:/Users/robhe/OneDrive/Desktop/Portfolio/muse-map/client/src\" \"C:/Users/robhe/OneDrive/Desktop/Portfolio/muse-map/server\" 2>&1)",
+      "Bash(ls \"C:/Users/robhe/OneDrive/Desktop/Portfolio/muse-map/client/src/components\" \"C:/Users/robhe/OneDrive/Desktop/Portfolio/muse-map/client/src/pages\" \"C:/Users/robhe/OneDrive/Desktop/Portfolio/muse-map/server/models\" \"C:/Users/robhe/OneDrive/Desktop/Portfolio/muse-map/server/routes\" 2>&1)",
+      "PowerShell(gh --version)",
+      "PowerShell(gh auth status)"
     ]
   }
 }
