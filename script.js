@@ -252,6 +252,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'about.tag': 'About',
       'about.title': 'A developer<br />who\'s shipped at<br /><span class="gradient-text">every scale.</span>',
       'about.leadRole': 'Lead Developer & Founder',
+      'about.resumeCta': 'Download Resume',
       'about.leadBio': 'Roberto is a problem-solver first, engineer second. After sharpening his craft at Pinterest, PSEG, and PowerOptions, he founded Hudson Technology Solutions to do for small organizations what big-tech engineering does for the Fortune 500 — turn operational pain into measurable outcomes. Every project ships under his direct hands, from first conversation to final launch.',
 
       'about.bio1': 'Hudson Technology Solutions was founded by <strong>Roberto Rodas-Herndon</strong>, a Boston University Computer Science graduate. As <strong>President of BU\'s Hack4Impact chapter (2021–2023)</strong>, he led student engineers in shipping pro-bono software for under-resourced non-profits — proving early that the right code, in the right hands, changes what an organization can actually accomplish.',
@@ -324,6 +325,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'about.tag': 'Acerca',
       'about.title': 'Un desarrollador<br />con experiencia a<br /><span class="gradient-text">cualquier escala.</span>',
       'about.leadRole': 'Desarrollador Principal y Fundador',
+      'about.resumeCta': 'Descargar Currículum',
       'about.leadBio': 'Roberto es resolutor de problemas primero, ingeniero después. Tras perfeccionar su oficio en Pinterest, PSEG y PowerOptions, fundó Hudson Technology Solutions para hacer por las organizaciones pequeñas lo que la ingeniería de las grandes tecnológicas hace por las Fortune 500 — convertir el dolor operativo en resultados medibles. Cada proyecto se entrega de sus propias manos, desde la primera conversación hasta el lanzamiento final.',
 
       'about.bio1': 'Hudson Technology Solutions fue fundada por <strong>Roberto Rodas-Herndon</strong>, graduado en Ciencias de la Computación de Boston University. Como <strong>Presidente del capítulo de Hack4Impact de BU (2021–2023)</strong>, lideró a ingenieros estudiantes en la entrega de software gratuito para organizaciones sin fines de lucro con pocos recursos — demostrando desde temprano que el código correcto, en las manos correctas, cambia lo que una organización realmente puede lograr.',
