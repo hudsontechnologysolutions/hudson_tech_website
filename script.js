@@ -212,6 +212,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
 
       'hero.badge': 'Based in Jersey City, NJ',
       'hero.title1': 'Moving <em class="gradient-text">you</em> forward',
+      'hero.sub': 'We build software, applications, and websites that help non-profits & small businesses scale their impact, boost revenue, and save time.',
       'hero.ctaPrimary': 'View Our Work',
       'hero.ctaSecondary': 'Start a Project',
       'hero.statClients': 'Clients Served',
@@ -283,6 +284,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
 
       'hero.badge': 'Ubicado en Jersey City, NJ',
       'hero.title1': 'Impulsándo<em class="gradient-text">te</em> hacia adelante',
+      'hero.sub': 'Creamos software, aplicaciones y sitios web que ayudan a organizaciones sin fines de lucro y pequeños negocios a escalar su impacto, aumentar sus ingresos y ahorrar tiempo.',
       'hero.ctaPrimary': 'Ver Nuestros Proyectos',
       'hero.ctaSecondary': 'Iniciar un Proyecto',
       'hero.statClients': 'Clientes Atendidos',
