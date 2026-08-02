@@ -212,7 +212,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
 
       'hero.badge': 'Based in Jersey City, NJ',
       'hero.title1': 'Moving <em class="gradient-text">you</em> forward',
-      'hero.sub': 'Helping nonprofits and SMBs save time and scale their impact by building custom software, automation systems, and digital tools.',
+      'hero.sub': 'Helping nonprofits and SMBs save time and scale their impact by building custom software, automation systems, and websites.',
       'hero.ctaPrimary': 'View Our Work',
       'hero.ctaSecondary': 'Start a Project',
       'hero.statClients': 'Clients Served',
@@ -245,8 +245,6 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'work.museDesc': 'Jersey City\'s Poet Laureate, <a href="https://www.jerseycitypoetryfestival.org/">Melida Rodas</a>, needed to centralize the city\'s scattered cultural calendar — and fund her nonprofit at the same time. The solution: an interactive map and event platform where local artists discover what\'s happening, while paid subscriptions let organizers post their own events — turning a community resource into a recurring revenue stream for the nonprofit.',
       'work.housesCat': 'Civic Automation',
       'work.housesDesc': '<a href="https://www.quetzalconsultingnj.com/affordablehousingstock" target="_blank" rel="noopener">Quetzal Consulting</a> was losing hours each week to manual Census data lookups for every Affirmative Fair Housing Marketing Plan it filed with Jersey City\'s Department of Affordable Housing. The solution: an automation tool that turns hours of per-property busywork into minutes — saving the owner roughly 15 hours every week across an entire real estate portfolio, and freeing them to take on more clients.',
-      'work.cyberCat': 'Software Engagement',
-      'work.cyberDesc': 'Serving as <strong>software developer</strong> for <a href="https://www.cyber-institute.org/" target="_blank" rel="noopener">The Cyber Institute</a>, an international nonprofit advancing cybersecurity policy, AI governance, and emerging-tech research — working directly with nation-states such as the <strong>United Arab Emirates</strong> and global bodies including the <strong>United Nations</strong>. The work supports a global mission: bridging the gap between fast-moving technology and the policymakers, industry leaders, and academics working to keep the digital future secure and equitable.',
       'work.viewProject': 'View Project',
 
       'about.tag': 'About',
@@ -283,7 +281,7 @@ document.querySelectorAll('.service-card').forEach((card) => {
 
       'hero.badge': 'Ubicado en Jersey City, NJ',
       'hero.title1': 'Impulsándo<em class="gradient-text">te</em> hacia adelante',
-      'hero.sub': 'Ayudamos a organizaciones sin fines de lucro y PyMEs a ahorrar tiempo y escalar su impacto creando software a medida, sistemas de automatización y herramientas digitales.',
+      'hero.sub': 'Ayudamos a organizaciones sin fines de lucro y PyMEs a ahorrar tiempo y escalar su impacto creando software a medida, sistemas de automatización y sitios web.',
       'hero.ctaPrimary': 'Ver Nuestros Proyectos',
       'hero.ctaSecondary': 'Iniciar un Proyecto',
       'hero.statClients': 'Clientes Atendidos',
@@ -316,8 +314,6 @@ document.querySelectorAll('.service-card').forEach((card) => {
       'work.museDesc': '<a href="https://www.jerseycitypoetryfestival.org/">Melida Rodas, Poeta Laureada de Jersey City</a>, necesitaba centralizar el calendario cultural disperso de la ciudad — y financiar su organización sin fines de lucro al mismo tiempo. La solución: una plataforma de eventos con mapa interactivo donde los artistas locales descubren lo que está pasando, mientras que las suscripciones de pago permiten a los organizadores publicar sus propios eventos — convirtiendo un recurso comunitario en una fuente recurrente de ingresos para la organización.',
       'work.housesCat': 'Automatización Cívica',
       'work.housesDesc': '<a href="https://www.quetzalconsultingnj.com/affordablehousingstock" target="_blank" rel="noopener">Quetzal Consulting</a> perdía horas cada semana en búsquedas manuales de datos del Censo para cada Plan de Comercialización de Vivienda Justa Afirmativa que presentaba al Departamento de Vivienda Asequible de Jersey City. La solución: una herramienta de automatización que convierte horas de trabajo por propiedad en minutos — ahorrando al dueño aproximadamente 15 horas cada semana en toda una cartera inmobiliaria, y liberándolo para tomar más clientes.',
-      'work.cyberCat': 'Trabajo de Software',
-      'work.cyberDesc': 'Trabajando como <strong>desarrollador de software</strong> para <a href="https://www.cyber-institute.org/" target="_blank" rel="noopener">The Cyber Institute</a>, una organización internacional sin fines de lucro que impulsa políticas de ciberseguridad, gobernanza de IA e investigación en tecnologías emergentes — colaborando directamente con naciones como los <strong>Emiratos Árabes Unidos</strong> y organismos globales como las <strong>Naciones Unidas</strong>. El trabajo apoya una misión global: cerrando la brecha entre la tecnología en rápida evolución y los responsables de políticas, líderes de la industria y académicos que trabajan para mantener el futuro digital seguro y equitativo.',
       'work.viewProject': 'Ver Proyecto',
 
       'about.tag': 'Acerca',
